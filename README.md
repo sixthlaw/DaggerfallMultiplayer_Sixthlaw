@@ -1,4 +1,4 @@
-# Daggerfall Multiplayer Sixthlaw
+# Daggerfall Multiplayer (Sixthlaw)
 
 ### How to install Daggerfall Multiplayer:
 - How to install the game on steam (Windows / Mac): https://youtu.be/NQMDU8RoF-U
