@@ -12,8 +12,8 @@ Now players can experience fully synchronized enemy encounters in both overworld
 - How to install the game on steam (Windows / Mac): 
 
 **Download these:**
-- Base game (MAC / Windows): (https://drive.google.com/drive/folders/1_DKfrtrn_429lgk4TpOR0K4dL4tqasm9?usp=share_link)
-- Save files: (https://drive.google.com/drive/folders/1Jl5WnYBSY5AOtX_0pMz68LiqpRNDcDit?usp=share_link)
+1. **Base game** (MAC / Windows): (https://drive.google.com/drive/folders/1_DKfrtrn_429lgk4TpOR0K4dL4tqasm9?usp=share_link)
+2. **Save files**: (https://drive.google.com/drive/folders/1Jl5WnYBSY5AOtX_0pMz68LiqpRNDcDit?usp=share_link)
 
 
 ### Shoutouts ~~
