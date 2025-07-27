@@ -13,7 +13,7 @@ Enemy synchronization has been extended to work in dungeons! Previously, enemy s
 
 Now players can experience fully synchronized enemy encounters in both overworld and dungeon environments, making multiplayer dungeon crawling a truly cooperative experience.
 
-### Shoutouts ~~
+### Shout-outs ~~
 
 Based on the original multiplayer work by Tanguy <3 - you can find his REPO here: https://github.com/EmptyBottleInc/DFU-Tanguy-Multiplayer
 
