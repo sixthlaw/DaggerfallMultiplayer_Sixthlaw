@@ -17,6 +17,8 @@ Now players can experience fully synchronized enemy encounters in both overworld
 
 Based on the original multiplayer work by Tanguy <3 - you can find his REPO here: https://github.com/EmptyBottleInc/DFU-Tanguy-Multiplayer
 
+As it's been 3 years since the last update, we're carrying on the torch here! We love you Tanguy. More updates inbound in the coming weeks. 
+
 The original DFU code is not from me, this is copied 0.14.5 code from [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity).
 
 You can be informed of the newest versions of the Daggerfall base game [here](https://www.dfworkshop.net/).
