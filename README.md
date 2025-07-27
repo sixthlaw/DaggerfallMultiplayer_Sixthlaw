@@ -1,18 +1,29 @@
 # Daggerfall Multiplayer (by Sixthlaw)
 
-Based on the work by Tanguy
+##  What's included in this update: 
+youtube link
 
-### Daggerfall Unity
+#### V0.1 Enemy Synchronization in Dungeons
+Enemy synchronization has been extended to work in dungeons! Previously, enemy synchronization only functioned in the overworld. 
 
-The original code is not from me, I copied the 0.14.5 code from [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity).
+Now players can experience fully synchronized enemy encounters in both overworld and dungeon environments, making multiplayer dungeon crawling a truly cooperative experience.
 
-You can be informed of the newest versions [here](https://www.dfworkshop.net/).
+### How to install Daggerfall Multiplayer:
+- How to install the game on steam (Windows / Mac): 
 
-I hope making this project a mod for the original version, but for now this is a "Custom Build".
+**Download these:**
+- Base game (MAC / Windows): (https://drive.google.com/drive/folders/1_DKfrtrn_429lgk4TpOR0K4dL4tqasm9?usp=share_link)
+- Save files: (https://drive.google.com/drive/folders/1Jl5WnYBSY5AOtX_0pMz68LiqpRNDcDit?usp=share_link)
 
-Here is a Tutorial to setup the thing to play online with steam [here](https://www.youtube.com/watch?v=pEvdcE6smFQ).
+
+### Shoutouts ~~
+
+Based on the work by Tanguy, you can find his REPO here: https://github.com/EmptyBottleInc/DFU-Tanguy-Multiplayer
+
+The original code is not from me, this is copied 0.14.5 code from [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity).
+
+You can be informed of the newest versions of the Daggerfall base game [here](https://www.dfworkshop.net/).
 
 ### Recent Updates
 
-#### Enemy Synchronization in Dungeons
-Enemy synchronization has been extended to work in dungeons! Previously, enemy synchronization only functioned in the overworld. Now players can experience fully synchronized enemy encounters in both overworld and dungeon environments, making multiplayer dungeon crawling a truly cooperative experience.
+
