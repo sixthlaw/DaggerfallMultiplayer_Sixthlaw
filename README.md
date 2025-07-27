@@ -13,6 +13,9 @@ Enemy synchronization has been extended to work in dungeons! Previously, enemy s
 
 Now players can experience fully synchronized enemy encounters in both overworld and dungeon environments, making multiplayer dungeon crawling a truly cooperative experience.
 
+### Important: 
+This mod is based on DFU 0.14.5 code - so you may have issues playing this version of the game with mods. We're currently working on getting it updated to work with the latest version of DFU. Stay tuned!
+
 ### Shout-outs ~~
 
 Based on the original multiplayer work by Tanguy <3 - you can find his REPO here: https://github.com/EmptyBottleInc/DFU-Tanguy-Multiplayer
