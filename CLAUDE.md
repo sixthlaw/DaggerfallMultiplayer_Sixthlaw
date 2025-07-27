@@ -24,6 +24,12 @@ This is a Unity 3D multiplayer modification for Daggerfall Unity v0.14.5. The pr
 - **Steam Integration**: Steamworks.NET provides lobby and matchmaking
 - **Asset Management**: Unity Addressables system for efficient loading
 - **Mod System**: DFU's modding framework with .dfmod packaging
+- **Synchronization**: "Catcher" components monitor and sync game state:
+  - `EntityCatcher.cs` - Enemy entities in dungeons
+  - `DoorsCatcher.cs` - Door open/closed states
+  - `LootCatcher.cs` - Loot container contents
+  - `TimeCatcher.cs` - Game time
+  - `WeatherCatcher.cs` - Weather conditions
 
 ## Development Commands
 
@@ -55,22 +61,28 @@ This is a Unity 3D multiplayer modification for Daggerfall Unity v0.14.5. The pr
    - Multiplayer scripts: `/Assets/Game/Mods/TanguyMultiplayer/Scripts/`
    - Core game modifications: Avoid unless necessary
    - Editor tools: `/Assets/Game/Mods/TanguyMultiplayer/Scripts/Editor/`
+   - Mirror framework: `/Assets/Game/Mods/TanguyMultiplayer/Scripts/Mirror/` (bundled)
 
 2. **Asset References**:
    - Prefabs: `/Assets/Game/Mods/TanguyMultiplayer/Prefabs/`
    - Use Unity's prefab system for networked objects
+   - Key prefabs: `NetworkManager.prefab`, `PlayerMultiplayer.prefab`
 
 3. **Networking Patterns**:
    - Inherit from NetworkBehaviour for synchronized components
    - Use [Command] for client-to-server calls
    - Use [ClientRpc] for server-to-client calls
    - Use [SyncVar] for automatically synchronized variables
+   - Follow the "Catcher" pattern for synchronizing existing game systems
 
 ## Important Files
 
 - `tanguysmultiplayer.dfmod.json` - Mod manifest and configuration
 - `NetworkManager.prefab` - Core multiplayer setup
-- `TanguyMultiplayerManagerV2.cs` - Main mod entry point
+- `ModInitiator.cs` - Main mod entry point (uses DFU's [Invoke] system)
+- `MultiplayerManager.cs` - Multiplayer initialization and HUD management
+- `PlayerMultiplayer.cs` - Networked player component
+- `SteamLobby.cs` - Steam integration and lobby system
 - `GameManager.cs` - Core game state management (avoid modifying)
 
 ## Common Tasks
