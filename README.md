@@ -13,7 +13,7 @@ Now players can experience fully synchronized enemy encounters in both overworld
 
 **Download these:**
 1. **Base game** (MAC / Windows): (https://drive.google.com/drive/folders/1_DKfrtrn_429lgk4TpOR0K4dL4tqasm9?usp=share_link)
-2. **Save files**: (https://drive.google.com/drive/folders/1Jl5WnYBSY5AOtX_0pMz68LiqpRNDcDit?usp=share_link)
+2. **Save files**: [https://drive.google.com/drive/folders/1Jl5WnYBSY5AOtX_0pMz68LiqpRNDcDit?usp=share_link](https://drive.usercontent.google.com/download?id=0B0i8ZocaUWLGWHc1WlF3dHNUNTQ&export=download&authuser=1)
 
 
 ### Shoutouts ~~
